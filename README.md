@@ -1,17 +1,30 @@
-# not_uygulamasi
+# 📝 Not Uygulaması
 
-A new Flutter project.
+Flutter ile geliştirilmiş cross-platform not alma uygulaması.
 
-## Getting Started
+> 🤖 Bu proje Claude ve Gemini yapay zekaları  yardımıyla geliştirilmiştir.
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- Kayıt / giriş (Firebase Auth)
+- Bulut senkronizasyon (Firestore)
+- Görsel ekleme
+- Sesli not
+- Markdown desteği
+- Arama ve etiket filtreleme
+- Toplu silme
+- Dark mode
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Platformlar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+iOS · Android · macOS
+
+## Kurulum
+```bash
+flutter pub get
+flutter run
+```
+
+## Geliştirici
+
+Fatih Çayıroğlu
